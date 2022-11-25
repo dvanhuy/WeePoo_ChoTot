@@ -1,0 +1,3 @@
+activate cdpm
+cd /d E:\Python\ChoTot
+uvicorn chotot:app --reload
